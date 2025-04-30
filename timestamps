@@ -1,0 +1,48 @@
+('00:01:50,486', '00:01:53,030', 'ass', 'bad', 'Just get your bad in the van.')
+('00:01:54,740', '00:01:56,575', 'hell', 'heck', 'The heck you want, asshole?')
+('00:02:33,863', '00:02:36,532', 'drug', 'bug', '<i>...is canceling their enhanced bug enforcement efforts</i>')
+('00:04:13,796', '00:04:16,966', 'ass', 'bad', "But don't worry, I won't kick your bad unless you make me.")
+('00:04:58,257', '00:05:00,718', 'hell', 'heck', 'What the heck are you doing in my town?')
+('00:17:35,180', '00:17:37,849', 'bitch', 'witch', 'My friend back there, Baker, he called you a Beantown witch.')
+('00:20:13,463', '00:20:15,173', 'hell', 'heck', 'What the heck does that mean?')
+('00:22:22,008', '00:22:26,721', 'meth', 'drug', 'But a Samoan fella come through here last year... drug dealer...')
+('00:23:12,058', '00:23:14,936', 'ass', 'bad', 'The only thing up my bad right now is you.')
+('00:25:35,368', '00:25:37,578', 'bitch', 'witch', 'Give me my shoes like a good little witch.')
+('00:26:21,706', '00:26:24,166', 'motherfucker', 'muffer', 'Look at this redwood muffer.')
+('00:26:33,134', '00:26:35,928', 'ass', 'bad', 'or they can carry your fat bad out in a bucket.')
+('00:26:41,392', '00:26:43,769', 'bitch', 'witch', 'witch, do you know who you talking to?')
+('00:27:44,038', '00:27:46,874', 'fucking', 'bugging', 'A bugging currency manager.')
+('00:28:20,241', '00:28:24,120', 'balls', 'marbles', "They'd cut my marbles off and make me eat 'em.")
+('00:30:40,589', '00:30:43,217', 'hell', 'heck', 'What the heck are you two doing down here?')
+('00:35:12,820', '00:35:14,488', 'hell', 'heck', 'You look like heck.')
+('00:42:58,535', '00:43:00,453', 'hell', 'heck', 'One heck of a town it is.')
+('00:44:21,201', '00:44:24,037', 'hell', 'heck', "- heck, I'll dance. - Not talking to you, peewee.")
+('00:49:39,185', '00:49:41,104', 'hell', 'heck', 'heck, no wonder Sharon left you.')
+Wrote filtered file: filtered.srt
+Generated Audacity label file: original_audacity_labels.txt
+Adjusted labels with offset and wrote to: offset_corrected_audacity_labels.txt
+Wrote filtered file with replacements: filtered_with_replacements.srt
+
+List of replaced words:
+Original: ass, Replacement: bad
+Original: hell, Replacement: heck
+Original: asshole, Replacement: mad fellow
+Original: drug, Replacement: bug
+Original: ass, Replacement: bad
+Original: hell, Replacement: heck
+Original: bitch, Replacement: witch
+Original: hell, Replacement: heck
+Original: meth, Replacement: drug
+Original: drug, Replacement: bug
+Original: ass, Replacement: bad
+Original: bitch, Replacement: witch
+Original: motherfucker, Replacement: muffer
+Original: ass, Replacement: bad
+Original: Bitch, Replacement: witch
+Original: fucking, Replacement: bugging
+Original: balls, Replacement: marbles
+Original: hell, Replacement: heck
+Original: hell, Replacement: heck
+Original: hell, Replacement: heck
+Original: Hell, Replacement: heck
+Original: Hell, Replacement: heck
